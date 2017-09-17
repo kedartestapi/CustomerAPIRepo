@@ -18,7 +18,7 @@ Installing
 
 ## Built With
 
-•	RAML - The web framework used
+•	RAML - API definition
 
 ## Authors 
 
