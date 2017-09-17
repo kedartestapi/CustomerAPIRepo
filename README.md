@@ -13,6 +13,7 @@ Prerequisites
 Installing 
 
 •	Download and Import RAML into Mulesoft Anypoint platform design centre.
+
 •	Enable mock service in Anypoint platform design center to test the API operations.
 
 ## Built With
